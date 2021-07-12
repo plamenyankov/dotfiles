@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = p.s.yankov@abv.bg
+	name = Plamen Yankov
